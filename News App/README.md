@@ -1,5 +1,7 @@
 # News App
 
+![ss](https://user-images.githubusercontent.com/80921107/135341351-5af6ed7a-ba59-4d0d-9c4a-30d001664111.png)
+
 ## Built With
 
 React Native
