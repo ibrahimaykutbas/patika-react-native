@@ -1,5 +1,7 @@
 # Patika Store
 
+![ss](https://user-images.githubusercontent.com/80921107/135538187-706abf30-5870-4fd6-aae0-89c14c82404b.gif)
+
 ## Built With
 
 React Native
