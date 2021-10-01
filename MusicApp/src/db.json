@@ -1,0 +1,92 @@
+[
+  {
+    "id": "0",
+    "title": "White Rabbit",
+    "artist": "Jefferson Airplane",
+    "album": "Surrealistic Pillow",
+    "year": 1967,
+    "isSoldOut": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/c/c1/Surrealistic_pillow_kapak.jpg"
+  },
+  {
+    "id": "1",
+    "title": "Somebody to Love",
+    "artist": "Jefferson Airplane",
+    "album": "Surrealistic Pillow",
+    "year": 1967,
+    "isSoldOut": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/c/c1/Surrealistic_pillow_kapak.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Oh My Love",
+    "artist": "John Lennon",
+    "album": "True Confessions",
+    "year": 1986,
+    "isSoldOut": false,
+    "imageUrl": "https://geldeinan.com/wp-content/uploads/2018/07/John-Lennon.jpg"
+  },
+  {
+    "id": "3",
+    "title": "I'm So Excited",
+    "artist": "The Pointer Sisters",
+    "album": "So Excited!",
+    "year": 1982,
+    "isSoldOut": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/PointersExcited.jpg/220px-PointersExcited.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Another One Bites The Dust - Remastered",
+    "artist": "Queen",
+    "album": "The Game (2011 Remaster)",
+    "year": 1980,
+    "isSoldOut": false,
+    "imageUrl": "https://productimages.hepsiburada.net/s/1/375/9493026701362.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Bohemian Rhapsody - Remastered 2011",
+    "artist": "Queen",
+    "album": "A Night At The Opere (2011 Remaster)",
+    "year": 1975,
+    "isSoldOut": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4d/Queen_A_Night_At_The_Opera.png"
+  },
+  {
+    "id": "6",
+    "title": "In the Year 2525",
+    "artist": "Zager & Evans",
+    "album": "Pure... '60s",
+    "year": 2012,
+    "isSoldOut": false,
+    "imageUrl": "https://img.discogs.com/ZEzPjWzKZs1luOb2DOFyJwLW2ic=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5692929-1400095719-3164.jpeg.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Summer Wine",
+    "artist": "Nancy Sinatra, Lee Hazlewood",
+    "album": "All Hope Is Gone",
+    "year": 2008,
+    "isSoldOut": true,
+    "imageUrl": "https://i.ytimg.com/vi/791z7Nb985Y/maxresdefault.jpg"
+  },
+  {
+    "id": "8",
+    "title": "The Sound of Silence - Acoustic Version",
+    "artist": "Simon & Garfunkel",
+    "album": "Wednesday Morning, 3 A.M.",
+    "year": 1964,
+    "isSoldOut": true,
+    "imageUrl": "https://www.dogaplakkitap.com/4031-thickbox_default/simon-garfunkel-wednesday-morning-3-am-plak.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Sweet Dreams (Are Made of This) - Remastered",
+    "artist": "Eurythmics, Annie Lennox, Dave Stewart",
+    "album": "Sweet Dreams (Are Made of This)",
+    "year": 1983,
+    "isSoldOut": true,
+    "imageUrl": "https://muzikercdn.com/uploads/products/3708/370868/8aa5bd1a.jpg"
+  }
+]
