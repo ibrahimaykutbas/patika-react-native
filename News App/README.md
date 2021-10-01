@@ -26,7 +26,7 @@ git clone https://github.com/ibrahimaykutbas/patika-react-native.git
 To use after cloning the project:
 
 ```
-cd News App
+cd patika-react-native/News App
 cd .
 ```
 
