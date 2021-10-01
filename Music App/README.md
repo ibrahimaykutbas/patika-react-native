@@ -1,5 +1,7 @@
 # Music App
 
+![Screenshot_1633130865](https://user-images.githubusercontent.com/80921107/135695687-3e5179d6-7a74-4bcc-813d-13a535b67c63.png)
+
 ## Built With
 
 React Native
