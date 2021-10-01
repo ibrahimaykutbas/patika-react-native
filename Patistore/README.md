@@ -25,7 +25,7 @@ git clone https://github.com/ibrahimaykutbas/patika-react-native.git
 To use after cloning the project:
 
 ```
-cd Patistore
+cd patika-react-native/Patistore
 cd .
 ```
 
