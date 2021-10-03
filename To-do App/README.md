@@ -2,7 +2,6 @@
 
 ![Screenshot_1633293574](https://user-images.githubusercontent.com/80921107/135771144-4f8c5c23-c9f4-4e48-bd25-541efb817365.png)
 
-
 ## Built With
 
 React Native
