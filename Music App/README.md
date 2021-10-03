@@ -8,8 +8,8 @@ React Native
 
 ## Features
 
-- Show playlist
-- Ability to search within the list
+- Show playlist.
+- Ability to search within the list.
 
 ## Getting Started
 
