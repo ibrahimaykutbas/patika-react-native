@@ -1,6 +1,7 @@
 # Music App
 
-![Screenshot_1633189323](https://user-images.githubusercontent.com/80921107/135723360-cd85c340-b88b-4244-85b5-3d5f21f18d25.png)
+![Screenshot_1633293574](https://user-images.githubusercontent.com/80921107/135771144-4f8c5c23-c9f4-4e48-bd25-541efb817365.png)
+
 
 ## Built With
 
@@ -8,8 +9,10 @@ React Native
 
 ## Features
 
-- Show playlist
-- Ability to search within the list
+- Ability to list to do.
+- Marking the item to be done as done when pressed and crossing it out.
+- Completion and crossing of to-do item when long press.
+- Ability to show the number of active items at the top right of the screen.
 
 ## Getting Started
 
@@ -26,7 +29,7 @@ git clone https://github.com/ibrahimaykutbas/patika-react-native.git
 To use after cloning the project:
 
 ```
-cd patika-react-native/Music App
+cd patika-react-native/To-do App
 cd .
 ```
 
