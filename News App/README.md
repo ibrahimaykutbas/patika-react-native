@@ -8,8 +8,8 @@ React Native
 
 ## Features
 
-- Listing of news
-- Floating banner
+- Listing of news.
+- Floating banner.
 
 ## Getting Started
 

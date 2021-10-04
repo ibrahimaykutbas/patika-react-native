@@ -8,7 +8,7 @@ React Native
 
 ## Features
 
-- Listing of products
+- Listing of products.
 
 ## Getting Started
 
