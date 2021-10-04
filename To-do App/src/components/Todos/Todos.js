@@ -6,6 +6,7 @@ import uuid from 'react-native-uuid';
 import styles from './Todos.styles';
 
 import AddTodo from '../AddTodo/AddTodo';
+import EmptyList from './EmptyList';
 
 const Todos = props => {
   const [todos, setTodos] = useState([]);
@@ -44,7 +45,12 @@ const Todos = props => {
 
   return (
     <View style={styles.container}>
-      <FlatList data={todos} renderItem={renderTodos} />
+      {todos.length > 0 ? (
+        <FlatList data={todos} renderItem={renderTodos} />
+      ) : (
+        <EmptyList />
+      )}
+
       <AddTodo addTodo={handleTodo} />
     </View>
   );

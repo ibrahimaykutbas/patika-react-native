@@ -17,4 +17,14 @@ export default StyleSheet.create({
     textDecorationLine: 'line-through',
     textShadowRadius: 5,
   },
+  emptyContainer: {
+    margin: 50,
+    marginTop: '50%',
+  },
+  emptyText: {
+    color: 'white',
+    fontWeight: 'bold',
+    fontSize: 40,
+    textAlign: 'center',
+  },
 });
