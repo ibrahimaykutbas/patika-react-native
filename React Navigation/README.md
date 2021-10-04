@@ -1,4 +1,4 @@
-# Music App
+# React Navigation
 
 ## Kurulum
 
