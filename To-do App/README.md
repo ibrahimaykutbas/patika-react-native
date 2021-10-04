@@ -1,56 +1,52 @@
 # Music App
 
-![Screenshot_1633293574](https://user-images.githubusercontent.com/80921107/135771144-4f8c5c23-c9f4-4e48-bd25-541efb817365.png)
+![ss](https://user-images.githubusercontent.com/80921107/135840866-502132c5-b20c-48d7-8b4e-2bb2f0a0c9ee.png)
 
-## Built With
+## Kurulum
 
 React Native
 
-## Features
+## Özellikler
 
-- Ability to list to do.
-- Marking the item to be done as done when pressed and crossing it out.
-- Completion and crossing of to-do item when long press.
-- Ability to show the number of active items at the top right of the screen.
+- Yapılacakları listeleyebilme.
+- Yapılması gereken öğeyi basıldığında yapıldı olarak işaretlemek ve üzerini çizmek.
+- Uzun basıldığında yapılacak öğesinin tamamlanması ve silinmesi.
+- Ekranın sağ üst köşesinde aktif öğelerin sayısını gösterebilme.
 
-## Getting Started
+## Başlangıç
 
-### Installation
-
-Clone this repository on your local machine.
+Bu depoyu yerel makinenizde klonlayın.
 
 ```
 git clone https://github.com/ibrahimaykutbas/patika-react-native.git
 ```
 
-### Usage
+### Kullanım
 
-To use after cloning the project:
+Projeyi klonladıktan sonra kullanmak için:
 
 ```
 cd patika-react-native/To-do App
 cd .
 ```
 
-Run the following commands into the project folder to install project dependencies.
+Proje bağımlılıklarını yüklemek için proje klasörüne aşağıdaki komutları çalıştırın.
 
 ```
 npm init
 npm install
 ```
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Bu talimatlar, geliştirme ve test amacıyla yerel makinenizde projenin bir kopyasını hazır ve çalışır hale getirecektir.
 
-## Available Scripts
+## Kullanılabilir Komut Dosyaları
 
-In the project directory, you can run:
+Proje dizininde şunları çalıştırabilirsiniz:
 
 ```
 npx react-native run-android
 ```
 
-Runs the app in the development mode.
+## Daha Fazla Bilgi İçin
 
-## Learn More
-
-To learn React Native, check out the [React documentation](https://reactnative.dev/).
+Daha fazlasını şuradan öğrenebilirsiniz: [React documentation](https://reactnative.dev/)
