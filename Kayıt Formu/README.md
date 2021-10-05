@@ -1,17 +1,19 @@
-# Music App
+# Kayıt Formu
 
-![ss](https://user-images.githubusercontent.com/80921107/135840866-502132c5-b20c-48d7-8b4e-2bb2f0a0c9ee.png)
+<img src="images/ss.png" height="500"> <img src="images/ss1.png" height="500"> <img src="images/ss2.png" height="500">
 
 ## Kurulum
 
 React Native
 
+## Tools
+
+- React Navigation
+
 ## Özellikler
 
-- Yapılacakları listeleyebilme.
-- Yapılması gereken öğeyi basıldığında yapıldı olarak işaretlemek ve üzerini çizmek.
-- Uzun basıldığında yapılacak öğesinin tamamlanması ve silinmesi.
-- Ekranın sağ üst köşesinde aktif öğelerin sayısını gösterebilme.
+- Sayfalar arası geçiş yapabilme.
+- Sayfalar arası veri transferi yapabilme.
 
 ## Başlangıç
 
@@ -26,7 +28,7 @@ git clone https://github.com/ibrahimaykutbas/patika-react-native.git
 Projeyi klonladıktan sonra kullanmak için:
 
 ```
-cd patika-react-native/To-do App
+cd patika-react-native/Kayıt Formu
 cd .
 ```
 
