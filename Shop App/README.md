@@ -36,7 +36,7 @@ git clone https://github.com/ibrahimaykutbas/patika-react-native.git
 Projeyi klonladıktan sonra kullanmak için:
 
 ```
-cd patika-react-native/To-do App
+cd patika-react-native/Shop App
 cd .
 ```
 
