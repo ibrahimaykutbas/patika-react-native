@@ -1,9 +1,6 @@
 # Tarifka App
 
-<img src="images/ss.png" height="500"> <img src="images/ss1.png" height="500">
-<img src="images/ss1.png" height="500"> <img src="images/ss1.png" height="500">
-<img src="images/ss2.png" height="500"> <img src="images/ss1.png" height="500">
-<img src="images/ss3.png" height="500"> <img src="images/ss1.png" height="500">
+<img src="images/ss.png" height="500"> <img src="images/ss1.png" height="500"> <img src="images/ss2.png" height="500"> <img src="images/ss3.png" height="500">
 
 ## Kurulum
 
