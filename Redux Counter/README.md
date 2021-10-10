@@ -25,7 +25,7 @@ git clone https://github.com/ibrahimaykutbas/patika-react-native.git
 Projeyi klonladıktan sonra kullanmak için:
 
 ```
-cd patika-react-native/Redux
+cd patika-react-native/Redux Counter
 cd .
 ```
 
