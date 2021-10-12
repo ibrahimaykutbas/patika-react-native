@@ -11,6 +11,8 @@ React Native
 - Custom Hooks
 - React Navigation
 - Lottie
+- Formik
+- Vector Icons
 
 ## Özellikler
 
@@ -18,6 +20,7 @@ React Native
 - Tıklanan ürünün detay sayfasına gidebilme.
 - API'dan yanıt dönene kadar bir loading ekranı gösterme.
 - API'dan olumsuz bir yanıt dönerse bir error ekranı gösterme.
+- API'dan gelen kullanıcı adı ve şifre ile giriş yapabilme.
 
 ## API
 
