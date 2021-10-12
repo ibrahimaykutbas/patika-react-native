@@ -13,6 +13,7 @@ React Native
 - Lottie
 - Formik
 - Vector Icons
+- AsyncStorage
 
 ## Özellikler
 
@@ -21,6 +22,7 @@ React Native
 - API'dan yanıt dönene kadar bir loading ekranı gösterme.
 - API'dan olumsuz bir yanıt dönerse bir error ekranı gösterme.
 - API'dan gelen kullanıcı adı ve şifre ile giriş yapabilme.
+- Giriş yapıldığı zaman kullanıcı adını ve şifresini hafızada tutar. Bu şekilde her uygulamaya yeniden giriş aşamasında kullanıcı adı ve şifresi sormaz.
 
 ## API
 

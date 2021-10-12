@@ -1,5 +1,6 @@
 import React from 'react';
 import {View, Image, Alert} from 'react-native';
+import {useDispatch} from 'react-redux';
 
 import {Formik} from 'formik';
 import Config from 'react-native-config';
@@ -13,6 +14,8 @@ import Button from '../../components/Button/Button';
 const Login = ({navigation}) => {
   const {data, loading, error, post} = usePost();
 
+  const dispatch = useDispatch();
+
   const handleLogin = values => {
     post(`${Config.API_AUTH_URL}/login`, values);
   };
@@ -25,7 +28,7 @@ const Login = ({navigation}) => {
     if (data.status === 'Error') {
       Alert.alert('Shop', 'Kullanıcı bulunamadı!');
     } else {
-      navigation.navigate('ProductsPage');
+      dispatch({type: 'SET_USER', payload: {user}});
     }
   }
 
@@ -64,3 +67,25 @@ const Login = ({navigation}) => {
 };
 
 export default Login;
+
+const user = {
+  id: 1,
+  email: 'John@gmail.com',
+  username: 'johnd',
+  password: 'm38rmF$',
+  name: {
+    firstname: 'John',
+    lastname: 'Doe',
+  },
+  address: {
+    city: 'kilcoole',
+    street: '7835 new road',
+    number: 3,
+    zipcode: '12926-3874',
+    geolocation: {
+      lat: '-37.3159',
+      long: '81.1496',
+    },
+  },
+  phone: '1-570-236-7033',
+};
