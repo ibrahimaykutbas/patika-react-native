@@ -1,6 +1,6 @@
 # Bana Ne?
 
-<img src="images/ss.png" height="500"> <img src="images/ss1.png" height="500"> <img src="images/ss2.png" height="500"> <img src="images/ss3.png" height="500"> <img src="images/ss4.png" height="500"> <img src="images/ss5.png" height="500">
+<img src="images/ss.jpeg" height="500"> <img src="images/ss1.jpeg" height="500"> <img src="images/ss2.jpeg" height="500"> <img src="images/ss3.jpeg" height="500"> <img src="images/ss4.jpeg" height="500"> <img src="images/ss5.jpeg" height="500">
 
 ## Kurulum
 
