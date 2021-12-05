@@ -1,6 +1,6 @@
 # Maps App
 
-<img src="images/ss.png" height="500"> <img src="images/ss1.png" height="500">
+<img src="images/ss.jpeg" height="500"> <img src="images/ss1.jpeg" height="500">
 
 ## Kurulum
 
