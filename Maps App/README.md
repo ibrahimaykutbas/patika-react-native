@@ -16,6 +16,10 @@ React Native
 - API'dan dönen kullanıcıların lokasyon bilgilerine göre harita üzerinde gösterilmesi.
 - Tıklanan kullanıcıya yakınlaşarak açılan bir modalda kullanıcının bilgilerinin gösterilmesi.
 
+## API
+
+Kullanılan API: Random Data API
+
 ## Başlangıç
 
 Bu depoyu yerel makinenizde klonlayın.
