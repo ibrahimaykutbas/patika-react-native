@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1681413578350" clover="3.2.0">
+  <project timestamp="1681413578350" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="3" coveredconditionals="3" methods="5" coveredmethods="5" elements="19" coveredelements="19" complexity="0" loc="11" ncloc="11" packages="2" files="3" classes="3"/>
+    <package name="src">
+      <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <file name="App.js" path="/Users/ibrahimaykutbas/Desktop/patika-react-native/Testing/src/App.js">
+        <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="11" type="stmt"/>
+        <line num="14" count="11" type="stmt"/>
+        <line num="16" count="11" type="stmt"/>
+        <line num="19" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="4" type="stmt"/>
+        <line num="24" count="11" type="stmt"/>
+        <line num="29" count="13" type="stmt"/>
+        <line num="49" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Button">
+      <metrics statements="2" coveredstatements="2" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="Button.js" path="/Users/ibrahimaykutbas/Desktop/patika-react-native/Testing/src/components/Button/Button.js">
+        <metrics statements="2" coveredstatements="2" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="6" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="7" count="16" type="stmt"/>
+      </file>
+      <file name="Button.style.js" path="/Users/ibrahimaykutbas/Desktop/patika-react-native/Testing/src/components/Button/Button.style.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>

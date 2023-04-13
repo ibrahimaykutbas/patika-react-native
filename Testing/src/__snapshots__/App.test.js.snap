@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match with snapshot 1`] = `
+<RCTSafeAreaView
+  style={
+    {
+      "flex": 1,
+    }
+  }
+>
+  <Text>
+    Testing
+  </Text>
+  <RCTScrollView
+    data={[]}
+    getItem={[Function]}
+    getItemCount={[Function]}
+    keyExtractor={[Function]}
+    onContentSizeChange={[Function]}
+    onLayout={[Function]}
+    onMomentumScrollBegin={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    stickyHeaderIndices={[]}
+    testID="list"
+    viewabilityConfigCallbackPairs={[]}
+  >
+    <View />
+  </RCTScrollView>
+  <TextInput
+    onChangeText={[Function]}
+    placeholder="Add..."
+    style={
+      {
+        "backgroundColor": "#e0e0e0",
+        "borderRadius": 5,
+        "margin": 10,
+        "padding": 10,
+      }
+    }
+    testID="input-area"
+    value=""
+  />
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "blue",
+        "borderRadius": 10,
+        "justifyContent": "center",
+        "margin": 10,
+        "opacity": 1,
+        "padding": 10,
+      }
+    }
+    testID="button-touchable"
+  >
+    <Text
+      style={
+        {
+          "color": "white",
+          "fontWeight": "bold",
+        }
+      }
+      testID="button-title"
+    >
+      Add
+    </Text>
+  </View>
+</RCTSafeAreaView>
+`;
